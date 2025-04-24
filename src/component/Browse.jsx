@@ -1,8 +1,10 @@
 import React from 'react'
-
+import Header from './header'
 function Browse() {
   return (
-    <div>Browse</div>
+    <div>
+      <Header />
+    </div>
   )
 }
 
